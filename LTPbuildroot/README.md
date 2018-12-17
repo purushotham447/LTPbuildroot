@@ -1,1 +1,1 @@
-# buildroot
+# LTP buildroot
